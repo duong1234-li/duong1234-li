@@ -1,4 +1,4 @@
-Ocean
+Hi 👋 My name is Ocean
 ======================
 
 Game Developer
