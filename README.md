@@ -1,4 +1,4 @@
-Hi 👋 My name is Ocean
+My name is Ocean
 ======================
 
 A College student
